@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1712348130 source:c:\users\marlo\onedrive\documentos\listasequencial\modulo.c
+	"lib.h"
+
+1712344967 c:\users\marlo\onedrive\documentos\listasequencial\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1712347847 source:c:\users\marlo\onedrive\documentos\listasequencial\main.c
+	"lib.h"
+

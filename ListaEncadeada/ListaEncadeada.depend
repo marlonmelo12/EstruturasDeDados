@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1722196602 source:c:\users\gabri\onedrive\documentos\c\listaencadeada\main.cpp
+	"lib.h"
+
+1722196490 c:\users\gabri\onedrive\documentos\c\listaencadeada\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1722196478 source:c:\users\gabri\onedrive\documentos\c\listaencadeada\modulo.cpp
+	"lib.h"
+
+1722196602 source:c:\users\marlo\onedrive\Área de trabalho\trabed\listaencadeada\main.cpp
+	"lib.h"
+
+1722196490 c:\users\marlo\onedrive\Área de trabalho\trabed\listaencadeada\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1722212710 source:c:\users\marlo\onedrive\Área de trabalho\trabed\listaencadeada\modulo.cpp
+	"lib.h"
+

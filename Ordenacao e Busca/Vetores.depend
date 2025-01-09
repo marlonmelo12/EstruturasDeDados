@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1724700833 source:c:\users\marlo\onedrive\Área de trabalho\ordenacao e busca\main.c
+	"lib.h"
+
+1724699033 c:\users\marlo\onedrive\Área de trabalho\ordenacao e busca\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1724700831 source:c:\users\marlo\onedrive\Área de trabalho\ordenacao e busca\modulo.c
+	"lib.h"
+

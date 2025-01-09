@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\marlo\onedrive\documentos\listacontas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1712932649 source:c:\users\marlo\onedrive\documentos\listacontas\moduloconta.c
+	"libConta.h"
+
+1712932595 c:\users\marlo\onedrive\documentos\listacontas\libconta.h
+	<stdio.h>
+	<stdlib.h>
+
